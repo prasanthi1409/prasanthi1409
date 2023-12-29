@@ -1,6 +1,11 @@
+<h1 align="center">Hi 👋, I'm Prasanthi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 💬 Ask me about **Java programming**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanthi1409&label=Profile%20views&color=0e75b6&style=flat" alt="prasanthi1409" /> </p>
+
+- 🌱 I’m currently learning **Java Full stack**
+
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **alapakaprasanthi@gmail.com**
 
